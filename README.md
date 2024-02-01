@@ -1,2 +1,2 @@
 # Altay
-test
+Hello, world!
